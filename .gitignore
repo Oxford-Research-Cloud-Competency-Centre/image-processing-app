@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+
+# Database file
+metadata.db
+
+# Ignore images directory
+images/

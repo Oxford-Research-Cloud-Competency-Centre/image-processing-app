@@ -1,0 +1,7 @@
+# Exclude the virtual environment directory
+venv/
+
+# Exclude other unnecessary files and directories
+__pycache__
+metadata.db
+.dockerignore
